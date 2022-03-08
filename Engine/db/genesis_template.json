@@ -1,0 +1,15 @@
+{
+	"blocks": [
+		{
+			"id": 0,
+			"parent": "0x0000000000000000000000000000000000000000000000000000000000000000",
+			"hash": "0x00fffffe557a1a3ace071fc5701c640afff2ed425bfc1079de84f6b2a0fdb836",
+			"nonce": "0x6f2a73c6e3b363929538999dcb05b264",
+			"merkle": "",
+			"difficulty": 1,
+			"time": "2022-02-09T15:41:32-03:00",
+			"version": "1.0.0",
+			"coinbase": "0x1c6ab7bbf2e4ca7c68a2f455c6e3dcc10ad5b5a5"
+		}
+	]
+}
